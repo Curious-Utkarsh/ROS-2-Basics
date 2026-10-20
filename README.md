@@ -14,7 +14,7 @@ My ROS 2 learning workspace from August–November 2024, kept as a record of how
 
 **Stack:** ROS 2 Humble · Python · C++ · Gazebo · OpenCV
 
-**Where this led:** [final-year robot](https://github.com/Curious-Utkarsh/bumperbot_ws) · [TurtleBot3 ArUco docking](https://github.com/Curious-Utkarsh/TurtleBot3_Autonomous_Docking) · [MechaMind Labs TurtleSim course](https://github.com/MechaMind-Labs/Mastering_the_Basics_of_ROS2_with_TurtleSim)
+**Where this led:** [Bumperbot differential-drive robot](https://github.com/Curious-Utkarsh/bumperbot_ws) · [TurtleBot3 ArUco docking](https://github.com/Curious-Utkarsh/TurtleBot3_Autonomous_Docking) · [MechaMind Labs TurtleSim course](https://github.com/MechaMind-Labs/Mastering_the_Basics_of_ROS2_with_TurtleSim)
 
 ---
 [Kumar Utkarsh](https://github.com/Curious-Utkarsh) · [LinkedIn](https://www.linkedin.com/in/kumar-utkarsh-124aab227/)
